@@ -9,15 +9,13 @@ Diff between..
 - Docker container
 
 VM, Docker, usage in DevOps.
-
 #
 what is docker? why docker?
-
 #
 Supported Platforms -
 	- Docker is supported on
 		- Linux platforms
-			Ubuntu, RHEL, CentOs..etc.
+		- Ubuntu, RHEL, CentOs..etc.
 		- Windows  
 		- OS X 		
 		  
